@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AhmadCodeMan
+- 👀 I’m interested in Web and App development
+- 🌱 I’m currently practicing JavaScript and Python
+- 💞️ I’m looking to collaborate on projects related to web development 
+- 📫 Reach me via my email 'ahmadwebman@gmail.com'
+- 
